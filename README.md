@@ -3,10 +3,6 @@
 # 🚧 Projeto Integrador II - MAPPA
 ## 📊 Estudo de Acidentes de Trânsito em Rodovias Federais
 
-<img src="https://img.shields.io/badge/status-em%20andamento-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/data%20analysis-pandas-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/dashboard-interativo-purple?style=for-the-badge">
 
 ---
 
@@ -71,10 +67,10 @@ Pode auxiliar:
 | Nome | Função | GitHub |
 |------|------|------|
 | VICTOR ALVES RIBEIRO FERNANDES | P.O DO PROJETO | [@VictorFerna](https://github.com/VictorFerna) |
-| LUCAS HENRIQUE MONTEIRO | ARQUITETO | [@Lucasmonnteiro](https://github.com/Lucasmonnteiro) |
-| DANILO LISBOA BARCELOS | ANALISTA DE DADOS | [@Danilo698](https://github.com/Danilo698) |
-| IGOR CAVALCANTE RODRIGUES | SCRUM MASTER | [@igorcavalcantee](https://github.com/igorcavalcantee) |
-| JOÃO VITOR VELOZO OLIVEIRA | ADMINISTRADOR BANCO DE DADOS | [@Jvvelozo](https://github.com/Jvvelozo) |
+|  | ARQUITETO |  |
+|  | ANALISTA DE DADOS |  |
+|  | SCRUM MASTER |  |
+|  | ADMINISTRADOR BANCO DE DADOS |  |
 ---
 
 ## 🗂️ Estrutura do Repositório
