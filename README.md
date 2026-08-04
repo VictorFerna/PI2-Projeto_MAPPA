@@ -68,7 +68,7 @@ Pode auxiliar:
 |------|------|------|
 | VICTOR ALVES RIBEIRO FERNANDES | P.O DO PROJETO | [@VictorFerna](https://github.com/VictorFerna) |
 |  | ARQUITETO |  |
-|  | ANALISTA DE DADOS |  |
+| EUARDO FERNANDES DOS SANTOS ROCHA | ANALISTA DE DADOS | [@EduardoFernandes7](https://github.com/eduardoFernandes7) |
 |  | SCRUM MASTER |  |
 |  | ADMINISTRADOR BANCO DE DADOS |  |
 ---
