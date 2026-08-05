@@ -1,12 +1,12 @@
 <div align="center">
 
 # 🚧 Projeto Integrador II - MAPPA
-## 📊 Estudo de Acidentes de Trânsito em Rodovias Federais
+## 📊 Acidentes de Trânsito em Rodovias Federais
 
 
 ---
 
-📍 Foco no **Distrito Federal (DF)** e regiões do entorno.  
+📍 Foco nas **Rodovias Federais (BR's)**.  
 📈 Identificação de padrões, tendências e fatores de risco.  
 
 </div>
@@ -21,32 +21,26 @@
 
 </div>
 
-* **LINK DO WEB PRODUCT:**- https://pi-projeto-mappa-k8chey3lbkovgwmtp5kpsn.streamlit.app
-* **LINK DO VÍDEO DEMO:**- https://youtu.be/viWexjK1q8c
+* **LINK DO DashBoard de Visualização dos Dados:**- https://pi-projeto-mappa-k8chey3lbkovgwmtp5kpsn.streamlit.app
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este projeto do curso de ciência da computação tem como objetivo estudar as ocorrências de acidentes de trânsito em **rodovias federais**, com ênfase nas conexões do **Distrito Federal** com cidades do entorno e outros estados.
-
-A iniciativa utiliza técnicas de **análise de dados** como ferramenta de estudo, para identificar padrões e gerar insights que possam contribuir para a melhoria da segurança viária.
+Este projeto do curso de ciência da computação tem como objetivo desenvolver X.
 
 ---
 
 ## 🎯 Objetivos
 
 ### 🧩 Objetivo Geral
-Desenvolver um dashboard interativo que tenha como base a **coleta, análise e visualização de dados** de acidentes de trânsito.
+Desenvolver um X.
 
 ### 📍 Objetivos Específicos
 
-- 📥 Coletar dados de fontes confiáveis  
-- 🧹 Tratar e organizar os dados  
 - 🔍 Identificar padrões e tendências  
 - ⚠️ Analisar fatores de risco  
-- 📊 Criar visualizações intuitivas  
-- 🖥️ Desenvolver um **dashboard interativo**  
+- 🖥️ Desenvolver um **X**  
 
 ---
 
@@ -59,7 +53,6 @@ Pode auxiliar:
 - 🏛️ **Gestores públicos** na tomada de decisão  
 - 📚 **Pesquisadores** em estudos de mobilidade  
   
-
 ---
 
 ## 👥 Equipe
@@ -70,14 +63,12 @@ Pode auxiliar:
 | LUCAS DE SALLES ALMEIDA MOURA | ARQUITETO | [@LucMoura](https://github.com/LucMoura) |
 | EUARDO FERNANDES DOS SANTOS ROCHA | ANALISTA DE DADOS | [@EduardoFernandes7](https://github.com/eduardoFernandes7) |
 |  | SCRUM MASTER |  |
-|  | ADMINISTRADOR BANCO DE DADOS |  |
 ---
 
 ## 🗂️ Estrutura do Repositório
 
-- **📚 Docs/imagnes/Un1/Un2/Un3/Un4/Un5:**
+- **📚 Docs/**
 - **📚 prototype:**
-- **📄 Estrutura_Do_Repositorio.txt:**
 - **📄 README.md:**
 
 ---
